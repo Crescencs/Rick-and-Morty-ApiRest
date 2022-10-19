@@ -1,0 +1,9 @@
+.container_character-card{
+    margin: auto;
+    font-size: 25px;
+    margin: 20px;
+}
+img{
+    width: 250px;
+    border-radius: 100px;
+}
